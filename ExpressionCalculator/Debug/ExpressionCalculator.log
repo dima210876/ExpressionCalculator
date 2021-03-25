@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  ExpressionCalculator.cpp
+d:\projects\expressioncalculator\expressioncalculator\expressioncalculator.cpp(15): warning C4114: множественное использование одного и того же квалификатора типа
+d:\projects\expressioncalculator\expressioncalculator\expressioncalculator.cpp(16): warning C4114: множественное использование одного и того же квалификатора типа
+d:\projects\expressioncalculator\expressioncalculator\expressioncalculator.cpp(18): warning C4114: множественное использование одного и того же квалификатора типа
+d:\projects\expressioncalculator\expressioncalculator\expressioncalculator.cpp(19): warning C4114: множественное использование одного и того же квалификатора типа
+d:\projects\expressioncalculator\expressioncalculator\expressioncalculator.cpp(77): warning C4114: множественное использование одного и того же квалификатора типа
+d:\projects\expressioncalculator\expressioncalculator\expressioncalculator.cpp(105): warning C4114: множественное использование одного и того же квалификатора типа
+d:\projects\expressioncalculator\expressioncalculator\expressioncalculator.cpp(132): warning C4114: множественное использование одного и того же квалификатора типа
+d:\projects\expressioncalculator\expressioncalculator\expressioncalculator.cpp(169): warning C4114: множественное использование одного и того же квалификатора типа
+  ExpressionCalculator.vcxproj -> D:\Projects\ExpressionCalculator\Debug\ExpressionCalculator.exe
